@@ -13,7 +13,7 @@ This project provides an interactive mathematical exploration of Collatz sequenc
 
 ## View Online
 
-🌐 **[View the interactive visualization](https://geekymode.github.io/CollatzMathematica/collatz_mathematica.html)**
+🌐 **[View the visualization online](https://geekymode.github.io/CollatzMathematica/collatz_mathematica.html)**
 
 
 ## Usage
